@@ -12,12 +12,11 @@
 - Фильтр карточек в Портфолио
 - Форма обратной связи (Ajax, PHP) 
 
-[**Онлайн демо**](https://nobleworkshop.github.io/personal-portfolio/)
 
 ### Тестировать локально
 
 ```
-git clone https://github.com/nobleworkshop/personal-portfolio.git
+git clone git@github.com:bobalive/portfolio.git
 cd apollo
 ```
 
